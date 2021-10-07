@@ -8,6 +8,7 @@ class  Coordinates{
     private :
     double x; // hoanh do
     double y; // tung do
+    //double z;
     public :
     Coordinates();
     Coordinates(int a, int b);
